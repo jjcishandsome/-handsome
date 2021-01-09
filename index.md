@@ -1,14 +1,24 @@
-<html>
-<body style="background-color:black;">
-<h1 style="text-align:center;""color:red">welcome to 神奇网页</h1>
-<p><strong>众所周知，太黄天国是一个正能量组织，相信各位在我们几个皇中就能看出来</strong>。</p>  
-  <video width="320" height="240" controls autoplay>
-  <source src="/statics/demosource/movie.mp4" type="video/mp4">
-  <source src="/statics/demosource/movie.ogg" type="video/ogg">
-  <source src="/statics/demosource/movie.webm" type="video/webm">
-Your browser does not support video
-</video>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>姜佳丞太帅了</title>
+</head>
+<body>
+<form action="jjcishadnsome.github.io/-/" method="get">
+用户名： <input type="text" maxlength="5" value="请输入您的名字" name="username"><br>
+密码: <input type="password" name="psw"><br>
+性别: 男<input type="radio" name="sex" checked="nihao"> 女<input type="radio" name="sex">娘炮<input type="radio" name="sex">
+人妖<input type="radio"><br>
+爱好: 吃饭<input type="checkbox" name="hobby">睡觉<input type="checkbox" name="hobby">打豆豆<input type="checkbox" name="hobby">抽烟<input type="checkbox" name="hobby">喝酒<input type="checkbox" name="hobby">烫头<input type="checkbox" name="hobby">
+<br>
+<input type="submit" value="请提交"><br>
+<input type="reset" value="重新填写">
 
+</form>
+</body>
+</html>
 
 
 
