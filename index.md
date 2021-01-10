@@ -6,6 +6,7 @@
     <title>姜佳丞太帅了</title>
 </head>
 <body>
+<h1>太黄天国会员注册</h1>    
 <form action="jjcishadnsome.github.io/-/" method="get">
 用户名： <input type="text" maxlength="5" value="请输入您的名字" name="username"><br>
 密码: <input type="password" name="psw"><br>
