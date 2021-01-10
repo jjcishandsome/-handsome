@@ -13,6 +13,8 @@
 人妖<input type="radio"><br>
 爱好: 吃饭<input type="checkbox" name="hobby">睡觉<input type="checkbox" name="hobby">打豆豆<input type="checkbox" name="hobby">抽烟<input type="checkbox" name="hobby">喝酒<input type="checkbox" name="hobby">烫头<input type="checkbox" name="hobby">
 <br>
+<input type="button" value="手机验证码">（获取不了）    
+<input type="file" value="请上传您的头像">
 <input type="submit" value="请提交"><br>
 <input type="reset" value="重新填写">
 
