@@ -85,7 +85,7 @@
 <!-- 第十行 -->
     <tr>
         <td></td>
-        <td><input type="submit"value="免费注册"></td>
+        <td><input type="submit" value="免费注册"></td>
     </tr>
 <!-- 第十一行 -->
 <tr>
