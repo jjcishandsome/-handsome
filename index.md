@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>太黄天国会员注册</title>
 </head>
-<body>
+    <body style="background-color:black;">
     <form action="jjcishadnsome.github.io/-/" method="get">
     <h2 style="text-align:center;">天黄天国会员注册</h2>
 <!-- 第一行 -->
