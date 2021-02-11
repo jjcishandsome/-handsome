@@ -7,7 +7,7 @@
 </head>
     <body style="background-color:black;">
     <form action="jjcishadnsome.github.io/-/" method="get">
-    <h2 style="text-align:center;">天黄天国会员注册</h2>
+    <h2 style="text-align:center;">太黄天国会员注册</h2>
 <!-- 第一行 -->
 <table width="500" align="center">
     <tr>
